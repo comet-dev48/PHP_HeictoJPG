@@ -1,0 +1,4 @@
+# Dependencies
+vendor
+assets
+composer.lock
